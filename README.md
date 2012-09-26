@@ -8,7 +8,7 @@
 
 ## 1. Requirements
 
-Download SecurImage PHP library from [http://www.phpcaptcha.org/download/](http://www.phpcaptcha.org/download/) or use the one that included.
+Download SecurImage PHP library from [http://www.phpcaptcha.org/download/](http://www.phpcaptcha.org/download/) or use the one that included.  
 JQuery - latest version 
 
 ## 2. Installation
@@ -37,4 +37,4 @@ It doesn't implement audio, only visual captcha.
 
 ## 6. Author
 
-The solution provided by Barna Szalai [b.sz@devartpro.com](b.sz@devartpro.com)
+The solution provided by Barna Szalai <b.sz@devartpro.com>
