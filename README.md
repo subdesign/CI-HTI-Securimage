@@ -1,3 +1,5 @@
+## --- This article isn't maintained anymore ---
+
 # Codeigniter "How-to-implement" series part 1 - *SECURIMAGE*
 
 *This series objective is to demonstrate how to implement several libraries into Codeigniter*
